@@ -2,6 +2,17 @@
 
 Gradio setup notebook for Nurnberg ML course
 
+- [ ] create a space
+- [ ] try basic interface
+- [ ] try in notebook
+- [ ] use an experted learner
+- [ ] use nbdev
+- [ ] try the API in Github Pages
+
+## Hugginface spaces deployment
+
+**Select gradio backend** when creating your huggingface spaces
+
 To deploy this on Huggingface spaces
 
 1. create a new huggingface spaces directory:
@@ -15,3 +26,4 @@ git add app.py
 git commit -m "Add application file"
 git push
 ```
+
